@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1176233854
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5f99121b8bce4255fe45a59b62eb8930
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 57cc261e7722b8429fae0fb29649ddb8
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/AnimationTrueCompress/101@Animation05(Stand)3.anim
+Dependencies: []

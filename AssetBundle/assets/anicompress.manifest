@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3801202393
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: be851053e707802d4ac61c26ea370c01
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fefeefc68cbcd76360d32519d1161183
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+Assets:
+- Assets/AniCompress.prefab
+Dependencies:
+- G:/Test/TestAnimationCompress/AssetBundle/assets/animationcompress/101

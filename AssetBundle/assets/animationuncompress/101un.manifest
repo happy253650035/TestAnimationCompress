@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 3976049943
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cf23e8dc283bb49795dff48d279e7eff
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a4381b8d24d7546af2f9b5d2b1de238
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/AnimationUnCompress/101Un.controller
+Dependencies:
+- G:/Test/TestAnimationCompress/AssetBundle/assets/animationuncompress/101@animation05(stand)1

@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 4102464879
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e15836d221434318f3ba45837c7d5113
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a4381b8d24d7546af2f9b5d2b1de238
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+Assets:
+- Assets/AnimationFakeCompress/101fake.controller
+Dependencies:
+- D:/Study/test/TestAnimationCompress/AssetBundle/assets/animationfakecompress/101@animation05(stand)2

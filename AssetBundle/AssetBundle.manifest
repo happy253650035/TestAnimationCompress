@@ -1,0 +1,15 @@
+ManifestFileVersion: 0
+CRC: 2670586307
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: assets/animationfakecompress/101fake
+      Dependencies:
+        Dependency_0: assets/animationfakecompress/101@animation05(stand)2
+    Info_1:
+      Name: assets/anifakecompress
+      Dependencies:
+        Dependency_0: assets/animationfakecompress/101fake
+    Info_2:
+      Name: assets/animationfakecompress/101@animation05(stand)2
+      Dependencies: {}

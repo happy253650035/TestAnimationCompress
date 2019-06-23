@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1636926933
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d8c2ecda7b87cd3be883de5d214247c9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fefeefc68cbcd76360d32519d1161183
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+Assets:
+- Assets/AniFakeCompress.prefab
+Dependencies:
+- D:/Study/test/TestAnimationCompress/AssetBundle/assets/animationfakecompress/101fake
